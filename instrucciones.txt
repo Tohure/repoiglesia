@@ -1,0 +1,3 @@
+1- Trata de bajarte un filezilla
+2- Conectate desde un puerto SFTP
+3- Trabaja en public_html y luego en la carpeta app/
